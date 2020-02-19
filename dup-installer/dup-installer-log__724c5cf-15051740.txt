@@ -1,0 +1,3 @@
+[PHP ERR][WARN] MSG:preg_match_all(): JIT compilation failed: no more memory [CODE:2|FILE:/Applications/MAMP/htdocs/oru/dup-installer/lib/config/class.wp.config.tranformer.php|LINE:393]
+[PHP ERR][WARN] MSG:preg_match_all(): JIT compilation failed: no more memory [CODE:2|FILE:/Applications/MAMP/htdocs/oru/dup-installer/lib/config/class.wp.config.tranformer.php|LINE:394]
+[PHP ERR][WARN] MSG:preg_replace(): JIT compilation failed: no more memory [CODE:2|FILE:/Applications/MAMP/htdocs/oru/dup-installer/classes/utilities/class.u.php|LINE:735]

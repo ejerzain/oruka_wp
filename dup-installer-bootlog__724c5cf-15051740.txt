@@ -1,0 +1,23 @@
+[Sep 19 09:25:41] 
+[Sep 19 09:25:41] [PHP ERR][WARN] MSG:filesize(): stat failed for 20190915_oruka_724c5cf8d06f457b8394_20190915051740_archive.zip [CODE:2|FILE:/Applications/MAMP/htdocs/oru/installer.php|LINE:119]
+[Sep 19 09:25:41] ==DUPLICATOR INSTALLER BOOTSTRAP v1.3.22==
+[Sep 19 09:25:41] ----------------------------------------------------
+[Sep 19 09:25:41] Installer bootstrap start
+[Sep 19 09:25:41] Using archive /Applications/MAMP/htdocs/oru/20190915_oruka_724c5cf8d06f457b8394_20190915051740_archive.zip
+[Sep 19 09:25:41] Manual extract found so not going to extract dup-installer dir
+[Sep 19 09:25:41] ERROR: Didn't need to extract the installer.
+[Sep 19 09:25:41] [PHP ERR][WARN] MSG:preg_match(): JIT compilation failed: no more memory [CODE:2|FILE:/Applications/MAMP/htdocs/oru/installer.php|LINE:845]
+[Sep 19 09:25:41] [PHP ERR][WARN] MSG:preg_match_all(): JIT compilation failed: no more memory [CODE:2|FILE:/Applications/MAMP/htdocs/oru/installer.php|LINE:847]
+[Sep 19 09:25:41] Set permissions of /Applications/MAMP/htdocs/oru/dup-installer to 0<br/>
+[Sep 19 09:25:41] Set permissions of /Applications/MAMP/htdocs/oru/dup-installer/assets to 0<br/>
+[Sep 19 09:25:41] Set permissions of /Applications/MAMP/htdocs/oru/dup-installer/classes to 0<br/>
+[Sep 19 09:25:41] Set permissions of /Applications/MAMP/htdocs/oru/dup-installer/ctrls to 0<br/>
+[Sep 19 09:25:41] Set permissions of /Applications/MAMP/htdocs/oru/dup-installer/favicon to 0<br/>
+[Sep 19 09:25:41] Set permissions of /Applications/MAMP/htdocs/oru/dup-installer/lib to 0<br/>
+[Sep 19 09:25:41] Set permissions of /Applications/MAMP/htdocs/oru/dup-installer/views to 0<br/>
+[Sep 19 09:25:41] Set permissions of /Applications/MAMP/htdocs/oru/dup-installer/dup-archive__724c5cf-15051740.txt to 0<br/>
+[Sep 19 09:25:41] Set permissions of /Applications/MAMP/htdocs/oru/dup-installer/dup-database__724c5cf-15051740.sql to 0<br/>
+[Sep 19 09:25:41] Set permissions of /Applications/MAMP/htdocs/oru/dup-installer/dup-scan__724c5cf-15051740.json to 0<br/>
+[Sep 19 09:25:41] Set permissions of /Applications/MAMP/htdocs/oru/dup-installer/index.php to 0<br/>
+[Sep 19 09:25:41] Set permissions of /Applications/MAMP/htdocs/oru/dup-installer/main.installer.php to 0<br/>
+[Sep 19 09:25:41] DONE: No detected errors so redirecting to the main installer. Main Installer URI = http://localhost:8888/oru/dup-installer/main.installer.php
